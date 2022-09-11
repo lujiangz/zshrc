@@ -1,0 +1,5 @@
+alias d="cd /Users/msevuk/Desktop"
+alias ls="ls -G"
+alias so="source ~/.zshrc"
+alias edit="vim ~/.zshrc"
+alias 666="caffeinate -disum"
