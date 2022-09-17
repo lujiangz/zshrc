@@ -1,2 +1,2 @@
 # zshrc
-42 42 42 42
+I'm too lazy to even create zshrc :(
