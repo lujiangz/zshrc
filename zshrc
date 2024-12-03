@@ -1,8 +1,10 @@
-alias d="cd /Users/msevuk/Desktop"
+PS1='\[\e[96;1m\]\u\[\e[0;38;5;182m\]\w\[\e[0m\]:'
+
+alias d="cd /home/msevuk/Desktop"
 alias ls="ls -G"
+alias la="ls -la"
 alias so="source ~/.zshrc"
 alias edit="vim ~/.zshrc"
-alias 666="caffeinate -disum"
 
 function brew_install()
 {
