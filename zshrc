@@ -37,4 +37,10 @@ function myip() {
     curl ifconfig.me
 }
 
+function tools()
+{
+        wget https://raw.githubusercontent.com/lujiangz/42-Tools/refs/heads/main/tools.sh
+        chmod 777 ./tools.sh
+}
+
 export PATH="/goinfre/msevuk/homebrew/bin:$PATH"
