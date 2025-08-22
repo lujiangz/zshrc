@@ -1,4 +1,4 @@
-PS1='\[\e[96;1m\]\u\[\e[0;38;5;182m\]\w\[\e[0m\]:'
+PS1=$'%F{cyan}%n%f%F{182}%~%f: '
 
 alias d="cd ~/Desktop"
 
